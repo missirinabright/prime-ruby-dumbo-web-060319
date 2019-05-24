@@ -1,5 +1,6 @@
 def prime?(num)
-  if num <= 0, num 
-  if num % divisor != 0 
-    rerutn true
+  if num <= 0, num == 1,
+    return FALSE
+  elsif num % divisor != 0 
+    rerutn TRUE
 end
