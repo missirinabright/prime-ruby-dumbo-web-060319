@@ -1,3 +1,3 @@
-def prime?(integer)
-  if integer
+def prime?(num)
+  if num % 
 end
