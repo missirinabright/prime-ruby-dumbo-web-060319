@@ -1,7 +1,7 @@
 def prime?(num)
   if num < 0 or num == 0 or num == 1
-    return FALSE
+    return false
   elsif num % divisor != 0 
-    rerutn TRUE
+    rerutn true
 end
 end
