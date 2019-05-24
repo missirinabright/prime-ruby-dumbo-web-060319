@@ -4,3 +4,4 @@ def prime?(num)
   elsif num % divisor != 0 
     rerutn TRUE
 end
+end
